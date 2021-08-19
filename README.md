@@ -1,5 +1,5 @@
 # Practice projects: libasm
-The goal of this project it to re-write several C-function from C Standard Library, using assembly language (NASM). I 
+The goal of this project it to re-write several C-function from C Standard Library, using assembly language (NASM).
 
 #### Command to compile the library (linux):
 `make`
